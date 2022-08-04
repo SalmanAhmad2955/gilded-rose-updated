@@ -1,7 +1,7 @@
 package guru.drako.examples.gildedrose
 
 fun main() {
-  println("OMGHAI!")
+  println("OMGHAI!!")
 
   val shop = Shop(items = listOf(
     Item(name = "+5 Dexterity Vest", sellIn = 10, quality = 20),
